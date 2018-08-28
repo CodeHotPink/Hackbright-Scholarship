@@ -1,4 +1,7 @@
 # Hackbright-Scholarship
+# Pasted from https://repl.it/@CodeHotPink/Game-Box-for-Scholarship
+# This is my first time using GitHub. I'm still learning how to use it. If it doesn't work try the repl.it 
+# ¯\_(ツ)_/¯
 
 """ Program that has different games to user to play.
 Hangman
