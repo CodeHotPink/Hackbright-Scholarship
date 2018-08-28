@@ -3,14 +3,14 @@
 # This is my first time using GitHub. I'm still learning how to use it. If it doesn't work try the repl.it 
 # ¯\_(ツ)_/¯
 
-""" Program that has different games to user to play.
+""" Program that has different games for user to play.
 Hangman
 Rock Paper Scissors
 Pig (Dice Game)
 
 Pseudocode:
 print greeting
-ask user which game they would like to play?
+ask user which game they would like to play
   if user choice == game1:
     ask if they need directions
     play game
